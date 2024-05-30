@@ -1,5 +1,5 @@
-<p align="center"><img align="center" width="280" src="./samcux/DarkLogo.png#gh-dark-mode-only"/></p>
-<p align="center"><img align="center" width="280" src="./samcux/LightLogo.png#gh-light-mode-only"/></p>
+<p align="center"><img align="center" width="280" src="./samcux/DarkLogo.svg#gh-dark-mode-only"/></p>
+<p align="center"><img align="center" width="280" src="./samcux/LightLogo.svg#gh-light-mode-only"/></p>
 
 <h3 align="center"><i>Passionate</i> <b>Software Engineer</b> <i>&<i> <b>Content Creator</b>
 </h3>
