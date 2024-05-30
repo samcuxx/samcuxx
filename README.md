@@ -4,6 +4,8 @@
 <h3 align="center"><i>Passionate</i> <b>Software Engineer</b> <i>&<i> <b>Content Creator</b>
 </h3>
 
+---
+###
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,gitlab,py,java,androidstudio,kotlin,html,css,js,ts,react,bootstrap,vscode,php,idea,figma,nodejs,nextjs,mysql,md&theme=light&perline=10" />
@@ -17,14 +19,19 @@
 </p>
 
 ###
+---
+<!-- <h3 align="left">👩‍💻  About Me</h3> -->
 
-<h3 align="left">👩‍💻  About Me</h3>
+###
+
+<h3 align="center"> <b>I'm Samuel Amoah. I live in Ghana, where I build the future.</b></h3>
+
+
+<p align="center">I am a self-driven, career-oriented software developer specializing in front-end development and open-source, currently pursuing a bachelors degree in computer science. My expertise lies in building interactive web applications on the client side. Primarily working with technologies like JavaScript, Next.js, TypeScript and Python.<br><br>I strongly believe in continuous learning and improving myself, so I try my best to learn in any situation possible, unfavorable or not.<br><br>In addition to my front-end development skills, I'm also a skilled content creator and graphic designer. I have experience writing blog posts, articles, and social media content. I'm also proficient in using Adobe Photoshop and Illustrator to create graphics and logos.<br><br>I'm currently looking for opportunities to use my skills to make a positive impact on the world. I'm interested in working on projects that are related to education, social justice, and environmental sustainability.</p>
 
 ###
 
-<p align="left">Hi, I'm Samuel Amoah, a third-year computer science student in Ghana. I'm also a front-end developer, content creator, and graphic designer. I'm passionate about using technology to solve real-world problems and create engaging experiences for users.<br><br>I have two years of experience building and maintaining websites and web applications using HTML, CSS, and JavaScript. I'm also proficient in a variety of popular front-end frameworks and libraries, such as React, Vue, and Angular.<br><br>In addition to my front-end development skills, I'm also a skilled content creator and graphic designer. I have experience writing blog posts, articles, and social media content. I'm also proficient in using Adobe Photoshop and Illustrator to create graphics and logos.<br><br>I'm currently looking for opportunities to use my skills to make a positive impact on the world. I'm interested in working on projects that are related to education, social justice, and environmental sustainability.</p>
-
-###
+---
 
 <div>
 <h3 align="center">Connect with me:</h3>
