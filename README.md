@@ -24,8 +24,6 @@
 
 <p align="left">Hi, I'm Samuel Amoah, a third-year computer science student in Ghana. I'm also a front-end developer, content creator, and graphic designer. I'm passionate about using technology to solve real-world problems and create engaging experiences for users.<br><br>I have two years of experience building and maintaining websites and web applications using HTML, CSS, and JavaScript. I'm also proficient in a variety of popular front-end frameworks and libraries, such as React, Vue, and Angular.<br><br>In addition to my front-end development skills, I'm also a skilled content creator and graphic designer. I have experience writing blog posts, articles, and social media content. I'm also proficient in using Adobe Photoshop and Illustrator to create graphics and logos.<br><br>I'm currently looking for opportunities to use my skills to make a positive impact on the world. I'm interested in working on projects that are related to education, social justice, and environmental sustainability.</p>
 
-🔭 I’m currently working on Youtube Channel<br>👯 I’m looking to collaborate on App Dev<br>🌱 I’m currently learning Flutter<br>📫 How to reach me samuellove228@gmail.com<br>👨‍💻 All of my projects are available at https://samuelamoah.vercel.app/
-
 ###
 
 <div>
