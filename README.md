@@ -1,7 +1,6 @@
 <p align="center"><img align="center" width="280" src="./samcux/DarkLogo.png#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" width="280" src="./samcux/LightLogo.png#gh-light-mode-only"/></p>
 
-
 <h3 align="center"><i>Passionate</i> <b>Software Engineer</b> <i>&<i> <b>Content Creator</b>
 </h3>
 
@@ -17,20 +16,20 @@
   </a>
 </p>
 
-
 <div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/sameera_s_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameera_s_w" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sameerasw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameerasw" height="30" width="40" /></a>
-<a href="https://fb.com/sameerasw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sameerasw" height="30" width="40" /></a>
-<a href="https://instagram.com/sameera_s_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameera_s_w" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sameerasw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sameerasw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@samcux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sameerasw" height="30" width="40" /></a>
+<a href="https://instagram.com/samcuxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameera_s_w" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/sameera_s_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameera_s_w" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/samcux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameerasw" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/sameerasw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sameerasw" height="30" width="40" /></a> -->
+
+
 </p>
 </div>
 
-
-<!-- 
+<!--
 ## 💖 Support the Project
 
 Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:
@@ -81,7 +80,7 @@ To support the project directly, feel free to open issues for icon suggestions, 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Sameera</h1>
 <h3 align="center">A passionate guy learning to code from Sri Lanka</h3> <br>
-<div align=center> 
+<div align=center>
 
   </div>
 
@@ -90,7 +89,6 @@ To support the project directly, feel free to open issues for icon suggestions, 
 
 
 👨🏻‍💻 Currently working in the UI/UI and front-end field while learning a dev in the meantime.  -->
-
 
 <!-- <table align="center">
 <tr>
