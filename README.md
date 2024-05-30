@@ -1,101 +1,36 @@
 <p align="center"><img align="center" width="280" src="./samcux/DarkLogo.png#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" width="280" src="./samcux/LightLogo.png#gh-light-mode-only"/></p>
 
+
 <h3 align="center"><i>Passionate</i> <b>Software Engineer</b> <i>&<i> <b>Content Creator</b>
 </h3>
-<!-- <hr>
-o keep icons consistent and to ensure browser support, we don't accept pull requests for icon submissions. I -->
-<!-- <h3 align="center">Powered by Cloudflare Workers ⚡</h3> -->
-
-<!-- <h3>NOTE: Tf you would like an icon added, please open an issue.<h3>
-
-# Docs
-
-- [Docs](#docs)
-- [Example](#example)
-- [Specifying Icons](#specifying-icons)
-- [Themed Icons](#themed-icons)
-- [Icons Per Line](#icons-per-line)
-- [Centering Icons](#centering-icons)
-- [Icons List](#icons-list)
-  - [💖 Support the Project](#-support-the-project)
-    - [](#)
-    - [](#-1)
-    - [](#-2)
-    - [](#-3)
-    - [](#-4)
-    - [](#-5)
-    - [](#-6)
-
-# Example
-
-<p align="center"><img align="center" src="./.github/example-dark.png#gh-dark-mode-only"/></p>
-<p align="center"><img align="center" src="./.github/example-light.png#gh-light-mode-only"/></p>
-
-# Specifying Icons
-
-Copy and paste the code block below into your readme to add the skills icon element!
-
-Change the `?i=js,html,css` to a list of your skills separated by ","s! You can find a full list of icons [here](#icons-list).
-
-```md
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-```
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-# Themed Icons
-
-Some icons have a dark and light themed background. You can specify which theme you want as a url parameter.
-
-This is optional. The default theme is dark.
-
-Change the `&theme=light` to either `dark` or `light`. The theme is the background color, so light theme has a white icon background, and dark has a black-ish.
-
-**Light Theme Example:**
-
-```md
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-```
-
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-
-# Icons Per Line
-
-You can specify how many icons you would like per line! It's an optional argument, and the default is 15.
-
-Change the `&perline=3` to any number between 1 and 50.
-
-```md
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-```
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-
-# Centering Icons
-
-Want to center the icons in your readme? The SVGs are automatically resized, so you can do it the same way you'd normally center an image.
-
-```html
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
-```
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=github,gitlab,py,java,androidstudio,kotlin,html,css,js,ts,react,bootstrap,vscode,php,idea,figma,nodejs,nextjs,mysql,md&theme=light&perline=10" />
   </a>
 </p>
 
-# Icons List
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=au,ps,pr,ai,notion,obsidian,ae" />
+  </a>
+</p>
 
-Here's a list of all the icons currently supported. Feel free to open an issue to suggest icons to add!
 
----
+<div>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/sameera_s_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameera_s_w" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sameerasw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameerasw" height="30" width="40" /></a>
+<a href="https://fb.com/sameerasw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sameerasw" height="30" width="40" /></a>
+<a href="https://instagram.com/sameera_s_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameera_s_w" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sameerasw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sameerasw" height="30" width="40" /></a>
+</p>
+</div>
 
+
+<!-- 
 ## 💖 Support the Project
 
 Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:
@@ -141,4 +76,35 @@ To support the project directly, feel free to open issues for icon suggestions, 
   </a>
 </div>
 
-### -->
+###
+
+
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Sameera</h1>
+<h3 align="center">A passionate guy learning to code from Sri Lanka</h3> <br>
+<div align=center> 
+
+  </div>
+
+
+
+
+
+👨🏻‍💻 Currently working in the UI/UI and front-end field while learning a dev in the meantime.  -->
+
+
+<!-- <table align="center">
+<tr>
+  <td>
+<a href="https://sameerasw.netlify.app" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sameerasw&show_icons=true&count_private=true&theme=tokyonight" alt="sameerasw"/></a>
+  </td>
+  <td>
+<a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=sameerasw&hide_border=true&background=7777ff&currStreakLabel=ffffff&date_format=j%20M%5B%20Y%5D" alt="Sameera Sandakelum's GitHub Readme Streak Stats" /> </a>
+  </td>
+<tr>
+</table> -->
+
+<!-- <h3>Join my community!</h3>
+<a href="https://t.me/tidwib"><img src="https://github.com/sameerasw/sameerasw/assets/68902530/5c267437-9469-4cf6-a61f-440643bef877")></a> -->
+
+<!-- <h3>Checkout my Hackintosh!</h3>
+<a href="https://github.com/sameerasw/Nitro5-2018_AN515-52_OpenCore"><img src="https://github.com/sameerasw/Nitro5-2018_AN515-52_OpenCore/assets/68902530/c68c9a17-360e-4220-8952-0997bcd89047")></a> -->
